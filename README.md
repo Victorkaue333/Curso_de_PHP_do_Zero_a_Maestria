@@ -73,11 +73,12 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 - **Operadores de Atribuição**
 - **Operador Ternário**
 
-### Ainda estou fazendo o curso, mais tópicos serão adicionados em breve!
+### Ainda estou fazendo o curso, mais tópicos serão adicionados em breve
 
 ## 📁 Estrutura de Pastas
 
 ```
+Curso_de_PHP_do_Zero_a_Maestria/
 ├── 1_intro/                          # Introdução ao PHP
 ├── 2_conceitos_basicos/              # Fundamentos da linguagem
 ├── 3_tipos_de_dados/                 # Tipos de dados em PHP
