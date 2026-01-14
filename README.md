@@ -32,6 +32,7 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 - Configuração do ambiente
 
 ### 2. Conceitos Básicos
+
 - Sintaxe PHP
 - Case Sensitive
 - Instruções de código
