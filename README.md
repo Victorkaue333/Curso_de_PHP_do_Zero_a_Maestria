@@ -26,11 +26,13 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 ## 📚 Estrutura do Curso
 
 ### 1. Introdução
+
 - Primeiros passos com PHP
 - Sintaxe básica
 - Configuração do ambiente
 
 ### 2. Conceitos Básicos
+- Sintaxe PHP
 - Case Sensitive
 - Instruções de código
 - Espaços em branco
@@ -38,6 +40,7 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 - Palavras reservadas
 
 ### 3. Tipos de Dados
+
 - **Inteiros:** Números inteiros e suas operações
 - **Float:** Números decimais
 - **Strings:** Manipulação de texto
@@ -47,6 +50,7 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 - **Null:** Valores nulos
 
 ### 4. Variáveis
+
 - Criação de variáveis
 - Variáveis de variável
 - Variáveis por referência
@@ -54,6 +58,7 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 - Parâmetros de função
 
 ### 5. Operadores e Expressões
+
 - Ordem dos operadores
 - Mudança de tipo implícito
 - **Operadores Aritméticos:** soma, subtração, multiplicação, divisão
