@@ -73,6 +73,14 @@ Este projeto utiliza **XAMPP** para executar o servidor PHP localmente.
 - **Operadores de Atribuição**
 - **Operador Ternário**
 
+### 6. Estruturas de Controle
+
+- **Estrutura If:** Tomada de decisões básicas
+- **Estrutura Else:** Alternativa quando a condição é falsa
+- **If Aninhado:** Estruturas condicionais dentro de outras
+- **Else If:** Múltiplas condições
+- **Switch:** Seleção entre múltiplos casos
+
 ### Ainda estou fazendo o curso, mais tópicos serão adicionados em breve
 
 ## 📁 Estrutura de Pastas
@@ -83,7 +91,8 @@ Curso_de_PHP_do_Zero_a_Maestria/
 ├── 2_conceitos_basicos/              # Fundamentos da linguagem
 ├── 3_tipos_de_dados/                 # Tipos de dados em PHP
 ├── 4_variaveis/                      # Trabalho com variáveis
-└── 5-operadores_e_expressoes/        # Operadores e expressões
+├── 5-operadores_e_expressoes/        # Operadores e expressões
+└── 6-estruturas_de_controle/         # Estruturas de controle
 ```
 
 Cada pasta contém exemplos práticos e exercícios relacionados ao tópico abordado.
